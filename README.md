@@ -1,3 +1,5 @@
+[![Header](https://github.com/YuliyaKazakova66/YuliyaKazakova66/blob/main/assets/Grey%20Minimalist%20Graphic%20Designer%20Linkedin%20Banner.png)](https://www.linkedin.com/in/yulia-kazakova/)
+
 ## I'm a QA engineer
 
 ## [Link to My CV](https://drive.google.com/file/d/1_xBqKxzGbolyhIoi204hOFulAcsG5VVt/view?usp=sharing)
