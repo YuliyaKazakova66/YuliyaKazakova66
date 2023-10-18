@@ -3,16 +3,16 @@
 ## [Link to My CV](https://drive.google.com/file/d/1_xBqKxzGbolyhIoi204hOFulAcsG5VVt/view?usp=sharing)
 
 ## Languages and Tools
-![Jira](https://img.shields.io/badge/-Jira-B0C4B1?style=for-social&logo=Jira)
-![RedMine](https://img.shields.io/badge/-RedMine-black?style=for-social&logo=RedMine)
+![Jira](https://img.shields.io/badge/-Jira-black?style=for-social&logo=Jira&logoColor=blue)
+![RedMine](https://img.shields.io/badge/-RedMine-black?style=for-social&logo=RedMine&logoColor=red)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-social&logo=github)
-![Sourcetree](https://img.shields.io/badge/-Sourcetree-black?style=for-social&logo=Sourcetree)
-![Postman](https://img.shields.io/badge/-Postman-B0C4B1?style=for-social&logo=postman)
-![JMeter](https://img.shields.io/badge/-JMeter-B0C4B1?style=for-social&logo=apache)
+![Sourcetree](https://img.shields.io/badge/-Sourcetree-black?style=for-social&logo=Sourcetree&logoColor=blue)
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-social&logo=postman)
+![JMeter](https://img.shields.io/badge/-JMeter-black?style=for-social&logo=apache&logoColor=red)
 ![Swagger](https://img.shields.io/badge/-Swagger-black?style=for-social&logo=swagger)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-social&logo=Docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-social&logo=PostgreSQL)
-![Figma](https://img.shields.io/badge/-Figma-black?style=for-social&logo=Figma)
+![Figma](https://img.shields.io/badge/-Figma-black?style=for-social&logo=Figma&logoColor=purple)
 ![DevTools](https://img.shields.io/badge/-DevTools-black?style=for-social&logo=googlechrome)
 
 ## Test artifacts
