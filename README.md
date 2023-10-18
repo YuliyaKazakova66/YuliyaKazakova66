@@ -1,5 +1,3 @@
-## banner
-
 ## I'm a QA engineer
 
 ## [Link to My CV](https://drive.google.com/file/d/1_xBqKxzGbolyhIoi204hOFulAcsG5VVt/view?usp=sharing)
