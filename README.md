@@ -1,6 +1,9 @@
 [![Header](https://github.com/YuliyaKazakova66/YuliyaKazakova66/blob/main/assets/Grey%20Minimalist%20Graphic%20Designer%20Linkedin%20Banner.png)](https://www.linkedin.com/in/yulia-kazakova/)
 
-## I'm a QA engineer
+# 👋 Hi there!
+ <p>I'm Yuliya, a Test Engineer. Here I want to share some web testing portfolio items gained during my studies and internships, showcasing projects that highlight my skills.</p>
+
+---
 
 ## [Link to My CV](https://drive.google.com/file/d/1_xBqKxzGbolyhIoi204hOFulAcsG5VVt/view?usp=sharing)
 
@@ -15,7 +18,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-social&logo=Docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-social&logo=PostgreSQL)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-social&logo=Figma&logoColor=purple)
-![DevTools](https://img.shields.io/badge/-DevTools-black?style=for-social&logo=googlechrome)
+![DevTools](https://img.shields.io/badge/-DevTools-black?style=for-social&logo=googlechrome&logoColor=green)
 
 ## Test artifacts
 
