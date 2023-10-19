@@ -17,10 +17,16 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-black?style=for-the-badge&logo=swagger)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=purple)
 ![DevTools](https://img.shields.io/badge/-DevTools-black?style=for-the-badge&logo=googlechrome&logoColor=green)
 
 ## Test artifacts
+[Testing theory](https://github.com/YuliyaKazakova66/Testing-theory)  
+[Test Documentation](https://github.com/YuliyaKazakova66/Test-Documentation)  
+[Test Design Techniques](https://github.com/YuliyaKazakova66/Test-Design-Techniques)  
+[Database Testing](https://github.com/YuliyaKazakova66/Database-Testing)    
+[Web Application Testing](https://github.com/YuliyaKazakova66/Web-Application-Testing)
 
 ## Licenses & certifications 
 [CrashTestTraining. Technical Basics](https://drive.google.com/file/d/1cslsMwjbFA3odOROmNNlM7vrNJmszq06/view)  
