@@ -26,7 +26,7 @@
 [Test Documentation](https://github.com/YuliyaKazakova66/Test-Documentation)  
 [Test Design Techniques](https://github.com/YuliyaKazakova66/Test-Design-Techniques)  
 [Database Testing](https://github.com/YuliyaKazakova66/Database-Testing)    
-[Web Application Testing](https://github.com/YuliyaKazakova66/Web-Application-Testing)
+
 
 ## Licenses & certifications 
 [CrashTestTraining. Technical Basics](https://drive.google.com/file/d/1cslsMwjbFA3odOROmNNlM7vrNJmszq06/view)  
