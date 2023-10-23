@@ -1,4 +1,4 @@
-[![Header](https://github.com/YuliyaKazakova66/YuliyaKazakova66/blob/main/assets/Grey%20Minimalist%20Graphic%20Designer%20Linkedin%20Banner.png)](https://www.linkedin.com/in/yulia-kazakova/)
+<!--[![Header]()](https://www.linkedin.com/in/yulia-kazakova/)-->
 
 # 👋 Hi there!
  <p>I'm Yuliya, a Test Engineer. Here I want to share some web testing portfolio items gained during my studies and internships, showcasing projects that highlight my skills.</p>
