@@ -33,7 +33,7 @@
 ## Licenses & certifications 
 [CrashTestTraining. Technical Basics](https://drive.google.com/file/d/1cslsMwjbFA3odOROmNNlM7vrNJmszq06/view)  
 [Software Testing: Postman for API testing](https://drive.google.com/file/d/1a4ssp9VxOXUApcTQ6tVK5le5HPq1j5g3/view?usp=sharing)  
-[EFSET English Certificate](https://www.efset.org/cert/R3cz3i)
+
 
 <h2 align="center"> Find Me here </h> 
 <div id="badges">
