@@ -1,7 +1,7 @@
 <!--[![Header]()](https://www.linkedin.com/in/yulia-kazakova/)-->
 
 # 👋 Hi there!
- <p>I'm Yuliya, a Test Engineer. Here I want to share some web testing portfolio items gained during my studies and internships, showcasing projects that highlight my skills.</p>
+ <p>I'm Yuliya, a QA Engineer. Here I want to share some web testing portfolio items gained during my studies and internships, showcasing projects that highlight my skills.</p>
 
 ---
 
