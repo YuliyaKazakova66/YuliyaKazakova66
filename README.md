@@ -3,7 +3,7 @@
 # 👋 Hi there!
  <p>I'm Yuliya, a QA Engineer. Here I want to share some web testing portfolio items gained during my studies and internships, showcasing projects that highlight my skills.</p>
 
-## [Link to My CV](https://drive.google.com/file/d/1_xBqKxzGbolyhIoi204hOFulAcsG5VVt/view?usp=sharing)
+## [Link to My CV](https://drive.google.com/file/d/199GyB1LkuS63CXur0jMiu0JFy8qt0yii/view?usp=sharing)
 
 ## Languages and Tools
 ![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=Jira&logoColor=blue)
