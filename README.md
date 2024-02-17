@@ -20,7 +20,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=purple)
 ![DevTools](https://img.shields.io/badge/-DevTools-black?style=for-the-badge&logo=googlechrome&logoColor=green)
-![Phython](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=phython)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 
 ## Test artifacts
 [Testing theory](https://github.com/YuliyaKazakova66/Testing-theory)  
