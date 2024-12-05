@@ -3,8 +3,6 @@
 # 👋 Hi there!
  <p>I'm Yuliya, a QA Engineer. Here I want to share some web testing portfolio items gained during my studies and internships, showcasing projects that highlight my skills.</p>
 
-## [✨Link to My CV✨](https://drive.google.com/file/d/1mxxQbUJ4R77I1OhP6a3Set-VE483vZD-/view?usp=sharing)
-
 ## Languages and Tools
 ![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=Jira&logoColor=blue)
 ![RedMine](https://img.shields.io/badge/-RedMine-black?style=for-the-badge&logo=RedMine&logoColor=red)
@@ -29,20 +27,17 @@
 [Database Testing](https://github.com/YuliyaKazakova66/Database-Testing)    
 [API Testing via Postman](https://github.com/YuliyaKazakova66/Api-Testing-via-Postman)
 
-## Licenses & certifications 
-[CrashTestTraining. Technical Basics](https://drive.google.com/file/d/1cslsMwjbFA3odOROmNNlM7vrNJmszq06/view)  
-[Software Testing: Postman for API testing](https://drive.google.com/file/d/1a4ssp9VxOXUApcTQ6tVK5le5HPq1j5g3/view?usp=sharing)  
 
 
 <h2 align="center"> Find Me here </h> 
 <div id="badges">
-    <a href="https://www.linkedin.com/in/yulia-kazakova/" target="_blank">
+    <a href="" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/ulxz66" target="_blank">
+    <a href="" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
-     <a href="mailto:kazakova.6696@gmail.com" target="_blank">
+     <a href="" target="_blank">
       <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail" />
     </a>
   </div>
